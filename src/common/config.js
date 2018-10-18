@@ -1,11 +1,9 @@
-const RANDOM_METHODS = {
+export const RANDOM_METHODS = {
   '0': 'default'
 }
-const INPUT_METHODS = {
+export const INPUT_METHODS = {
   '0': '默认',
 }
+// export const HOVER_STYLES = 'hvr-float-shadow,hvr-grow,hvr-shrink,hvr-pulse,hvr-pulse-grow,hvr-pulse-shrink,hvr-push,hvr-pop,hvr-bounce-in,hvr-bounce-out,hvr-rotate,hvr-grow-rotate,hvr-float,hvr-sink,hvr-bob,hvr-hang,hvr-skew,hvr-skew-forward,hvr-skew-backward,hvr-wobble-horizontal,hvr-wobble-vertical,hvr-wobble-to-bottom-right,hvr-wobble-to-top-right,hvr-wobble-top,hvr-wobble-bottom,hvr-wobble-skew,hvr-buzz,hvr-buzz-out,hvr-forward,hvr-backward,hvr-fade,hvr-back-pulse,hvr-sweep-to-right,hvr-sweep-to-left,hvr-sweep-to-bottom,hvr-sweep-to-top,hvr-bounce-to-right,hvr-bounce-to-left,hvr-bounce-to-bottom,hvr-bounce-to-top,hvr-radial-out,hvr-radial-in,hvr-rectangle-in,hvr-rectangle-out,hvr-shutter-in-horizontal,hvr-shutter-out-horizontal,hvr-shutter-in-vertical,hvr-shutter-out-vertical,hvr-icon-back,hvr-icon-forward,hvr-icon-down,hvr-icon-up,hvr-icon-spin,hvr-icon-drop,hvr-icon-fade,hvr-icon-float-away,hvr-icon-sink-away,hvr-icon-grow,hvr-icon-shrink,hvr-icon-pulse,hvr-icon-pulse-grow,hvr-icon-pulse-shrink,hvr-icon-push,hvr-icon-pop,hvr-icon-bounce,hvr-icon-rotate,hvr-icon-grow-rotate,hvr-icon-float,hvr-icon-sink,hvr-icon-bob,hvr-icon-hang,hvr-icon-wobble-horizontal,hvr-icon-wobble-vertical,hvr-icon-buzz,hvr-icon-buzz-out,hvr-border-fade,hvr-hollow,hvr-trim,hvr-ripple-out,hvr-ripple-in,hvr-outline-out,hvr-outline-in,hvr-round-corners,hvr-underline-from-left,hvr-underline-from-center,hvr-underline-from-right,hvr-reveal,hvr-underline-reveal,hvr-overline-reveal,hvr-overline-from-left,hvr-overline-from-center,hvr-overline-from-right,hvr-shadow,hvr-grow-shadow,hvr-float-shadow,hvr-glow,hvr-shadow-radial,hvr-box-shadow-outset,hvr-box-shadow-inset,hvr-bubble-top,hvr-bubble-right,hvr-bubble-bottom,hvr-bubble-left,hvr-bubble-float-top,hvr-bubble-float-right,hvr-bubble-float-bottom,hvr-bubble-float-left,hvr-curl-top-left,hvr-curl-top-right,hvr-curl-bottom-right,hvr-curl-bottom-left,hvr-float, hvr-float'
 
-export default {
-  RANDOM_METHODS,
-  INPUT_METHODS
-}
+export const HOVER_STYLES = 'grow,shrink,pulse,push,pop,grow-rotate,float,sink,bob,skew-forward,skew-backward,wobble-horizontal,wobble-vertical,wobble-to-bottom-right,wobble-to-top-right,wobble-top,wobble-bottom,wobble-skew,buzz,buzz-ouy,forward,backward'
